@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.ipynb_checkpoints
+.DS_Store
+*.log
+
+# Agar aap model.pkl ko upload nahi karna chahte to neeche wali line uncomment karo:
+# model.pkl
