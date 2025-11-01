@@ -5,15 +5,14 @@ It takes input features such as average area income, number of rooms, and area p
 
 ---
 
-##  Tech Stack
-- Python 
-- pandas, NumPy  
-- scikit-learn  
-- Streamlit  
-
+## 🧰 Tech Stack  
+- **Language:** Python  
+- **Libraries:** pandas, NumPy, scikit-learn, Streamlit  
+- **Model:** Linear Regression 
+  
 ---
 
-##  Project Structure
+## 📂  Project Structure
 House_Price_Prediction/
 │
 ├── app.py # Streamlit web app
