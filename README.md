@@ -26,3 +26,12 @@ House_Price_Prediction/
 │
 └── notebook/
 └── HousePrice.ipynb # Data exploration & training notebook
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/fahad-data-analytics/House_Price_Prediction.git
